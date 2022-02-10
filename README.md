@@ -1,7 +1,7 @@
 # CrackIPN
 Crack Segmentation by Fully Convolutional Networks with Depth-to-Space Operator
 
-Include links to code, video and database
+Include links to code, video and CrackIPN database
 
 Testing code is named CrackIPN.ipynb
 
