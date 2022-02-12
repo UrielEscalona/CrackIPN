@@ -1,5 +1,5 @@
 # CrackIPN
-Crack Segmentation by Fully Convolutional Networks with Depth-to-Space Operator
+Fast Crack Segmentation with Depth-to-Space Operator for Pavement Maintenance
 
 Include links to code, video and CrackIPN database
 
