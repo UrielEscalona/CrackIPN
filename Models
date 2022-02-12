@@ -1,3 +1,3 @@
-Trained model with CrackIPN Dataset can be downloaded from : https://drive.google.com/drive/folders/1tyeNWSd78MKd9zuAEoZCUGhow5auFu_2?usp=sharing
-Trained model with CFD Dataset can be downloaded from : https://drive.google.com/drive/folders/1-VR_hL4UHLaqIQBWhuNyj6T-gQevwC2W?usp=sharing
+Trained models with CrackIPN dataset and CFD dataset can be downloaded from : https://drive.google.com/drive/folders/1y0vIm5VHFf7Bh3rgBdAJ7XFy-2kOlNQ8?usp=sharing
+
 Both models can be trained to different datasets with input size 420x320 pixels
